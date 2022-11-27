@@ -1,0 +1,46 @@
+body , html{
+    height: 100% !important;
+    margin: 0;
+    
+}
+.bg-image {
+    background-image: url("../img/backgraund3.jpeg"); 
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+    height: 100%;
+}
+.table-body{
+    border: 1px solid whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 220px;
+}
+
+td , tr{
+    border: 1px solid whitesmoke;
+    
+}
+
+.h{
+    color: white !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
+
+/* footer  */
+
+.border-footer{
+    background-color: black;
+    border: 1px solid black;
+    margin-bottom : 0 !important;
+}
+.h3-footer {
+    color: whitesmoke;
+    margin-left: 85% ;
+}
+.h5-footer {
+    color: whitesmoke;
+    text-align: center;
+    margin-bottom: 20px !important;
+}
