@@ -1,5 +1,4 @@
 window.onload = function(){
-    //alert("Hello world")
     var allSelected = JSON.parse(localStorage.getItem('date'))
     if(allSelected === null){
         allSelected = [];
